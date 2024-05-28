@@ -13,6 +13,7 @@ The program reads strings from a `input.txt` file and determines if they are acc
 - `README.md`: This file, providing an overview and instructions.
 - `LICENSE`: The project license.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
+- `JFLAP.jff`: A JFLAP file containg the DFA. Open this file in JFLAP -> (prerequisies Java Developmet Kit) 
 
 ## Getting Started
 
