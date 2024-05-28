@@ -8,7 +8,7 @@ The program reads strings from a `input.txt` file and determines if they are acc
 
 ## Files
 
-- `main.cpp`: The main C++ source file that contains the DFA logic.
+- `source_file.cpp`: The main C++ source file that contains the DFA logic.
 - `input.txt`: A text file containing strings to be checked, one per line.
 - `README.md`: This file, providing an overview and instructions.
 - `LICENSE`: The project license.
