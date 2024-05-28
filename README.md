@@ -24,7 +24,7 @@ The program reads strings from a `input.txt` file and determines if they are acc
 ### Running the Program
 
 **1. Clone the repository:*** 
-   git clone https://github.com/your-username/finite-automata-validator.git
+   git clone https://github.com/razaa3245/finite-automata-validator.git
    cd finite-automata-validator
    
 **2. Compile the program:**
